@@ -1,0 +1,10 @@
+* wuwei
+
+WuWei -- effortless Ajax web UIs from Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtravers/wuwei.git   |
+| commit  | a72da77  |
+| systems | wuwei |
+|---------+-------------------------------------------|
+
